@@ -127,6 +127,10 @@ img {
     padding-bottom: 188px;
 }
 
+.advatages-list {
+    padding-left: 0;
+}
+
 .list-item {
     width: calc((100% - 72px) / 4);
 }
