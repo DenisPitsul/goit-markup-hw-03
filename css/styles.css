@@ -92,10 +92,6 @@ img {
     margin-right: 0;
 }
 
-.nav-last-list-item {
-    margin-right: 0;
-}
-
 .address {
     font-style: normal;
 }
@@ -211,6 +207,7 @@ img {
 
 .images-list {
     display: flex;
+    padding-left: 0;
 }
 
 .images-list-item {
@@ -231,6 +228,7 @@ img {
 .our-team-list {
     display: flex;
     gap: 24px;
+    padding-left: 0;
 }
 
 .employee-list-item {
