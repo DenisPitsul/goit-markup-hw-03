@@ -58,7 +58,6 @@ img {
 
 .menu {
     display: flex;
-    gap: 40px;
 }
 
 .list {
@@ -80,6 +79,14 @@ img {
 .list-link-item:hover,
 .list-link-item:focus {
     color: #404bbf;
+}
+
+.nav-list-item {
+    margin-right: 40px;
+}
+
+.nav-last-list-item {
+    margin-right: 0;
 }
 
 .address {
