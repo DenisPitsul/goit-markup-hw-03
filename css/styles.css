@@ -301,8 +301,7 @@ img {
 }
 
 .portfolio-section {
-    padding-top: 96px;
-    padding-bottom: 120px;
+    padding: 96px 0 120px;
 }
 
 .portfolio-title {
@@ -316,7 +315,7 @@ img {
     margin-bottom: 72px;
 }
 
-.portfolio-button-itemm {
+.portfolio-button-item {
     margin-right: 24px;
 }
 
