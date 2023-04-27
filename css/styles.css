@@ -188,6 +188,10 @@ img {
     color: #434455;
 }
 
+.third-section {
+    padding-bottom: 120px;
+}
+
 .images-title {
     font-size: 36px;
     line-height: 1.11;
@@ -195,6 +199,20 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
+}
+
+.images-list {
+    display: flex;
+}
+
+.images-list-item {
+    width: calc((100% - 48px) / 3);
+    margin-right: 24px;
+}
+
+.images-list-item:last-child {
+    margin-right: 0;
 }
 
 .our-team-section {
