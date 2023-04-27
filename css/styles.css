@@ -23,7 +23,7 @@ img {
     display: block;
 }
 
-.container {
+.header-container {
     display: flex;
     width: 1158px;
     margin: 0 auto;
@@ -32,7 +32,7 @@ img {
     justify-content: space-between;
 }
 
-.body-container {
+.container {
     width: 1158px;
     margin: 0 auto;
     padding-left: 15px;
